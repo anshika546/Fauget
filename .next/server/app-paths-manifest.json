@@ -1,0 +1,7 @@
+{
+  "/booking/page": "app/booking/page.js",
+  "/success/[id]/page": "app/success/[id]/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/page": "app/page.js",
+  "/services/page": "app/services/page.js"
+}
